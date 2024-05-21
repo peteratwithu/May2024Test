@@ -19,4 +19,10 @@ class LargeClassA extends LargeFile {
   static void method3() {
     print("Method 3 in LargeClassA");
   }
+  static void method4() {
+    print("Method 4 in LargeClassA");
+  }
+  static void method5() {
+    print("Method 5 in LargeClassA");
+  }
 }
