@@ -54,4 +54,39 @@ class LargeClassB extends LargeFile {
   static void method3() {
     print("Method 3 in LargeClassB");
   }
+  static void method4() {
+    print("Method 4 in LargeClassB");
+  }
+  static void method5() {
+    print("Method 5 in LargeClassB");
+  }
+  static void method6() {
+    print("Method 6 in LargeClassB");
+  }
+  static void method7() {
+    print("Method 7 in LargeClassB");
+  }
+  static void method8() {
+    print("Method 8 in LargeClassB");
+  }
+  static void method9() {
+    print("Method 9 in LargeClassB");
+  }
+  static void method10() {
+    print("Method 10 in LargeClassB");
+  }
+}
+
+class LargeClassC extends LargeFile {
+  static void method1() {
+    print("Method 1 in LargeClassC");
+  }
+
+  static void method2() {
+    print("Method 2 in LargeClassC");
+  }
+
+  static void method3() {
+    print("Method 3 in LargeClassC");
+  }
 }
