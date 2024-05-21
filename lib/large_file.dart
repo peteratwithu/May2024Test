@@ -54,4 +54,25 @@ class LargeClassD extends LargeFile {
   static void method3() {
     print("Method 3 in LargeClassD");
   }
+  static void method4() {
+    print("Method 4 in LargeClassD");
+  }
+  static void method5() {
+    print("Method 5 in LargeClassD");
+  }
+  static void method6() {
+    print("Method 6 in LargeClassD");
+  }
+  static void method7() {
+    print("Method 7 in LargeClassD");
+  }
+  static void method8() {
+    print("Method 8 in LargeClassD");
+  }
+  static void method9() {
+    print("Method 9 in LargeClassD");
+  }
+  static void method10() {
+    print("Method 10 in LargeClassD");
+  }
 }
